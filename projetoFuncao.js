@@ -1,6 +1,6 @@
 
 
-let vitorias = 80;
+let vitorias = 80; 
 let derrotas = 3;
 function calculoRank(vitorias, derrotas){
     
