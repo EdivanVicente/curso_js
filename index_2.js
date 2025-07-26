@@ -39,3 +39,5 @@ switch (true) {
         console.log("jogador" + " " + jogador + " não possui um título");
         break;
 }
+// Comentário: O código acima utiliza um switch case para verificar o nível de experiência do jogador e imprimir o título correspondente com base no valor de xp.
+// O jogador "Edivan" tem 4001 de xp, então o console exibirá "jogador Edivan é um Diamante".
