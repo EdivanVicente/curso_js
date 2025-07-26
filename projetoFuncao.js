@@ -32,3 +32,5 @@ function calculoRank(vitorias, derrotas){
     }
 let resultadoRank = calculoRank(vitorias, derrotas);
 console.log(resultadoRank);
+
+// ´projeto funcao para rank
