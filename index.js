@@ -27,3 +27,6 @@ if (xp <= 1000) {
 }else if(xp > 10000){    
     console.log("jogador" + " " + jogador + " é um " + radiante);
 }        
+
+// Comentário: O código acima verifica o nível de experiência do jogador e imprime o título correspondente com base no valor de xp.
+// O jogador "Edivan" tem 4001 de xp, então o console exibirá "jogador Edivan é um Diamante".
